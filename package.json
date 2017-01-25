@@ -8,10 +8,10 @@
     },
     "author": "Morten Larsen",
     "license": "ISC",
-    "homepage": "https://github.com/laravel-elixir-group-css-media-queries",
+    "homepage": "https://github.com/hartviglarsen/laravel-elixir-group-css-media-queries",
     "repository": {
         "type": "git",
-        "url": "https://github.com/laravel-elixir-group-css-media-queries"
+        "url": "https://github.com/hartviglarsen/laravel-elixir-group-css-media-queries"
     },
     "dependencies": {
         "gulp-group-css-media-queries": "^1.2.0"
