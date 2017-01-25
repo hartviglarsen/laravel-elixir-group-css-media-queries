@@ -1,0 +1,19 @@
+{
+    "name": "laravel-elixir-group-css-media-queries",
+    "version": "1.0.0",
+    "description": "A gulp-group-css-media-queries wrapper ingredient for Laravel Elixir.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Morten Larsen",
+    "license": "ISC",
+    "homepage": "https://github.com/laravel-elixir-group-css-media-queries",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/laravel-elixir-group-css-media-queries"
+    },
+    "dependencies": {
+        "gulp-group-css-media-queries": "^1.2.0"
+    }
+}
